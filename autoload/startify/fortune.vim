@@ -66,7 +66,7 @@ let s:cow = [
       \ '| | | ||_ _| | \_/ |/ |_ _| __| | | | | \_/ | o \/ _|',
       \ '| U | |_| || | \_/ | o | || _|  | V | | \_/ |   ( (_ ',
       \ '|___|___|_||_|_| |_|_n_|_||___|  \_/|_|_| |_|_|\\\__|',
-      \ '                                          BY AnasR7  ',
+      \ '                                            BY AnasR7',
       \ ]
 
 let s:unicode = &encoding == 'utf-8' && get(g:, 'startify_fortune_use_unicode')
